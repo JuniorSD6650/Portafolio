@@ -24,7 +24,7 @@ export default function HeroSection() {
             Ver Proyectos
           </a>
           <a
-            href="https://www.linkedin.com/in/edwinsaavedra/"
+            href="https://www.linkedin.com/in/edwin-saavedra-dominguez/"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-100 font-semibold border border-slate-600 shadow-md transition"

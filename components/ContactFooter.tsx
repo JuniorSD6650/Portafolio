@@ -11,7 +11,7 @@ export default function ContactFooter() {
         transition={{ duration: 0.6 }}
       >
         <a
-          href="https://www.linkedin.com/in/edwinsaavedra/"
+          href="https://www.linkedin.com/in/edwin-saavedra-dominguez/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-6 py-3 rounded-lg bg-cyan-500 hover:bg-cyan-600 text-white font-semibold shadow-md transition mb-4"
